@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img height="256" src="/assets/R.jpg" align="center">
+
 - 🔭 I’m currently working on falling in love with a very lovely girl❤
 - 🌱 I’m currently learning machine learning and pattern recognization
 - 👯 I’m looking to collaborate on AI learning
